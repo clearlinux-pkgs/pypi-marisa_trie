@@ -1,5 +1,5 @@
 PKG_NAME := pypi-marisa_trie
-URL = https://files.pythonhosted.org/packages/ff/3b/e3b9e08c393acc474e7a60df6f5e180af103ad25b0c29cee3ce2564447eb/marisa_trie-1.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/31/15/9d9743897e4450b2de199ee673b50cb018980c4ced477d41cf91304a85e3/marisa_trie-1.2.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
